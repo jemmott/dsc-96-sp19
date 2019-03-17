@@ -54,7 +54,3 @@ A few sample questions to pursue, to get you started:
 * Property seized/arrested in relation to searched? Ask the same
   question here as with stops overall?
 * Ask the same questions for various "Stop Causes"
-
-## Assigned Readings
-
-See [readings](readings.md)

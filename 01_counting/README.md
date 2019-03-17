@@ -38,7 +38,3 @@ event. When might you need other data?
 * Titanic dataset and cool things you can do with it: https://www.kaggle.com/c/titanic
 * Tableau official training: https://www.tableau.com/learn
 * Tableau examples with Titanic data: https://public.tableau.com/search/all/titanic
-
-## Assigned Readings
-
-See [readings](readings.md)

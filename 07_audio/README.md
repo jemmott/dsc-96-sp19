@@ -1,4 +1,4 @@
-# Week 6: Audio
+# Week 7: Audio
 
 This week focuses on audio recordings as a source of data.
 
@@ -20,7 +20,3 @@ jupyterhub server
 1. Log into JupyterHub and open a terminal (`New` > `Terminal`)
 2. Change directories into the project: type `cd DSC96`
 3. Pull down the newest material: type `git pull origin master`
-
-## Assigned Readings
-
-See [readings](readings.md)

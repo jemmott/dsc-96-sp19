@@ -14,7 +14,3 @@ I found making a map from the .geojson file confusing, and [this link](https://o
 
 ## Aggregate functions
 https://onlinehelp.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_aggregate_create.htm
-
-## Assigned Readings
-
-See [readings](readings.md)

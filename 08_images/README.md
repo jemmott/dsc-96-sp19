@@ -1,4 +1,4 @@
-# Week 5: Images
+# Week 8: Images
 
 Data comes in many forms.  Over the next few weeks we will be looking at images, unstructured text (tweets), and audio recordings.
 
@@ -19,11 +19,6 @@ jupyterhub server
 1. Log into JupyterHub and open a terminal (`New` > `Terminal`)
 2. Change directories into the project: type `cd DSC96`
 3. Pull down the newest material: type `git pull origin master`
-
-## Assigned Readings
-
-See [readings](readings.md)
-
 
 ## Optional Further Reading
 

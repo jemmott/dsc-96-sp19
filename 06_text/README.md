@@ -1,4 +1,4 @@
-# Week 7: Unstructured Text
+# Week 6: Unstructured Text
 
 
 This week we will be working with unstructured data, specifically text data.  On the first day we will use the Python package NLTK (Natural Language ToolKit) to analyze tweets and learn a little about natural language processing (NLP).  On day 2 we will explore getting data from the internet, including best practices for scraping data.
@@ -18,7 +18,3 @@ jupyterhub server:
 ## Links
 
 Twitter released millions of tweets related to Russian hacking: [here](https://blog.twitter.com/official/en_us/topics/company/2018/enabling-further-research-of-information-operations-on-twitter.html).
-
-## Assigned Readings
-
-See [readings](readings.md)
