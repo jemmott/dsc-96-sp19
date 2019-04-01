@@ -12,8 +12,7 @@ By the end of this module you will be able to:
 ## Part I
 
 This module will start with guided exercises to learn Tableau using
-the `Lobbying.csv` dataset. The guided exercises are based on 
-[this tutorial](https://www.dropbox.com/s/5qh0ilvpbdi1aut/Basic_Tableau_Viz.pdf?dl=0).
+the `Lobbying.csv` dataset. 
 
 ## Part II
 
