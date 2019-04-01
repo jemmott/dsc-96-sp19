@@ -3,9 +3,7 @@
 The getting started project initially guides you through exercises to
 get comfortable manipulated and analyzing data. The project uses
 Tableau, so that you can get familiar with working with data without
-the overhead of learning and setting up a more sophisticated coding
-environment (later projects assume you have a python environment
-installed). 
+the overhead of code. 
 
 By the end of this module you will be able to:
 * answer basic questions about a dataset by aggregating and visualizing data
